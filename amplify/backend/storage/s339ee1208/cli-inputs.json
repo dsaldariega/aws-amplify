@@ -1,0 +1,14 @@
+{
+  "resourceName": "s339ee1208",
+  "policyUUID": "39ee1208",
+  "bucketName": "awsamplify",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
